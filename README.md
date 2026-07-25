@@ -102,10 +102,10 @@ Customer-Churn-Prediction/
 
 ## 🤖 Machine Learning Algorithms
 
-The project uses the** Random Forest** Classifier to classify customers into two categories:
+The project uses the **Random Forest** Classifier to classify customers into two categories:
 
-Customer Will Stay
-Customer Will Exit
+- Customer Will Stay
+- Customer Will Exit
 
 The trained model and scaler are loaded into the Streamlit application for real-time predictions.
 
