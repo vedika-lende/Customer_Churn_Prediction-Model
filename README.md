@@ -14,6 +14,7 @@ The project covers the complete machine learning workflow, including data prepro
 ## 🎯 Problem Statement
 
 The bank aims to minimize customer attrition by identifying customers who are likely to discontinue their relationship with the bank. Using historical customer data, the goal is to develop a predictive analytics model that enables proactive engagement and personalized retention efforts.
+
 ---
 
 ## 📂 Dataset
