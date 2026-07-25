@@ -1,6 +1,8 @@
 # Customer_Churn_Prediction-Model
 A machine learning project that predicts customer churn using customer behavior and account data, helping businesses identify at-risk customers and improve retention strategies.
 
+---
+
 ## 📌 Project Overview
 
 Customer churn is one of the biggest challenges for businesses. This project predicts whether a customer is likely to leave a bank based on demographic, account, and service-related information using Machine Learning classification algorithms.
