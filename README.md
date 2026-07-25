@@ -100,7 +100,7 @@ Customer-Churn-Prediction/
 
 ---
 
-## 🤖 Machine Learning Algorithms2222
+## 🤖 Machine Learning Algorithms
 
 The project uses the Random Forest Classifier to classify customers into two categories:
 
